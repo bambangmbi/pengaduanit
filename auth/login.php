@@ -43,7 +43,7 @@ if (isset($_POST['login'])) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Login | SI-PEKERBA DISKOMINFO</title>
+    <title>Login | SI-PENGADUAN IT RS3M PLUS</title>
     <!-- icon diskominfo -->
     <link rel="icon" href="../assets/dist/img/diskominfo-logo.png">
     <!-- Bootstrap CSS -->
@@ -61,9 +61,9 @@ if (isset($_POST['login'])) {
                 <img src="../assets/img/login-img.svg" class="img-fluid" alt="login image">
             </div>
             <div class="col-md-6">
-                <a class="btn logo" href="../index.php">SI-PEKERBA</a>
+                <a class="btn logo" href="../index.php">SI-PENGADUAN IT</a>
                 <img src="css/diskominfo-logo.png" width="40" height="40">
-                <p class="lead">Dinas Komunikasi dan Informasi Palembang</p>
+                <p class="lead">IT RUMAH SAKIT 3M PLUS</p>
                 <h4 class="signin-text mb-3">Sign In</h4>
                 <form action="" method="post">
                     <div class="form-group">
@@ -84,7 +84,7 @@ if (isset($_POST['login'])) {
                     <p>Don't have an account? Register here!</p>
                     <a href="sign-up.php" class="btn btn-signup">Sign up</a>
                 </form>
-                <br><center><p>Repost by <a href='https://sharecodingan.blogspot.com/' title='sharecodingan.blogspot.com' target='_blank'>ShareCodingan</a></p></center>
+
                 
             </div>
         </div>
